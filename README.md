@@ -1,12 +1,16 @@
-# MSP430_PongGame
-Um jogo de Pong desenvolvido por alunos de Eng. de Computação da UTFPR-PB usando MSP430
+<h1 align="center"> :joystick: PongGame no MSP430</h1>
 
----------------------------------------------------------------------------------------
+<h6 align="center">Desenvolvido pelos acadêmicos de Engenharia de Computação da UTFPR CAMPUS Pato Branco</h6>
 
-Projeto desenvolvido por alunos do curso de graduação Engenharia de 
-Computação, cursando a matéria de Sistemas Microcontrolados na 
-Universidadde Tecnológica Federal do Paraná - Campus Pato Branco.
+Este projeto se trata de um jogo desenvolvido durante a disciplina de *Sistemas Microcontrolados* utilizando o microcontrolador MSP430. O objetivo do jogo é simples: usar a raquete virtual para passar a bola e pontuar mais que o adversário. Conforme for passando o tempo do jogo maior a velocidade da bolinha. No desenho abaixo pode ser visualizada a ideia do jogo.
 
+    ----------------------  ----------------------  ----------------------
+    |                   ||  |                    |  |                     |
+    ||o                 ||  |                   ||  |                     |
+    ||                   |  ||                  ||  ||               o   ||
+    |                    |  ||      o            |  ||                   ||
+    ----------------------  ----------------------  ----------------------
+ 
 Integrantes:
  *		Lucas Caldeira de Oliveira;
  *		Mário Alexandre Rodrigues;
@@ -21,4 +25,3 @@ Descrição:
  *		Toda a lógica foi desenvolvida para que seja de fácil expansão,
   		sendo preciso apenas conectar mais matrizes de led e alterar o valor
   		das constantes referentes à quantidade de matrizes em X e Y.
- 
