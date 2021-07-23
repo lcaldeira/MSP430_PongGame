@@ -25,3 +25,6 @@ Descrição:
  *		Toda a lógica foi desenvolvida para que seja de fácil expansão,
   		sendo preciso apenas conectar mais matrizes de led e alterar o valor
   		das constantes referentes à quantidade de matrizes em X e Y.
+
+Elementos do Jogo:
+![alt text](https://github.com/lcaldeira/MSP430_PongGame/blob/master/game_elements.png?raw=true)
